@@ -1,0 +1,6 @@
+PIL                 7.1.2
+matplotlib          3.2.2
+numpy               1.21.6
+pandas              1.3.5
+torch               1.12.1+cu113
+torchvision         0.13.1+cu113
